@@ -1,0 +1,61 @@
+
+
+      <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="/assets/images/06_10_11_21_24_47.jpg" height=500 width=500>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="/assets/images/houston dive 037.JPG" height=500 width=500>
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="/assets/images/Porthole with hatch cover.jpg" height=500 width=500>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <a name="jay"></a>
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="/assets/images/jay.jpg" height=500 width=500>
+        </div>
+        <div class="col-md-7">
+          <h2>Jay Hannah</h2>
+          <p>TODO: Add photo of grandpa and I on the left.</p>
+          <p>Hello, Jay here. My grandfather was Earl C. Humphrey, SM2C. He was a Japanese POW for 42 months, working on the Burma-Thai railroad. He was one of 291 survivors of the crew of 1,060. He died in 2000 from pneumonia. I miss him.</p>
+          <p>I'm the least experienced diver on the team. Before 2013 I had dove 3 times, years ago, in Australia. Turns out if you take a half-day class and then fail to drown in a swimming pool they'll take you out on the reefs. Beautiful. :) In 2013 I got excited about the possibility of diving the Houston before Jerry retires, so I got my open water certification in my home town of Omaha, Nebraska. I flew down to Florida for some check-out dives with Jerry. It's hard to practice ocean currents in a rock quarry in Iowa. :)</p>
+          <p>Jerry took that picture of me on one of the check out dives at <a href="http://www.vortexspring.com/">Vortex Spring</a>.</p>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+
+

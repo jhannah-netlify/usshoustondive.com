@@ -1,0 +1,30 @@
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/IMAG1668.JPG" height=140 width=140>
+          <h2>Jerry Ranger</h2>
+          <p>Son of John W. Ranger. Divemaster.</p>
+          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/houston dive 8th tee shirt 007.JPG" height=140 width=140>
+          <h2>Heading</h2>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/dive march 5, 2008 027.JPG" height=140 width=140>
+          <h2>heading</h2>
+          <p>donec sed odio dui. cras justo odio, dapibus ac facilisis in, egestas eget quam. vestibulum id ligula porta felis euismod semper. fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-default" href="#">view details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/jay.jpg" height=140 width=140>
+          <h2>Jay Hannah</h2>
+          <p>Grandson of Earl C. Humphrey, Jay will be the first 2nd generation of any survivor to dive the Houston. Hopefully not the last. :)</p>
+          <p><a class="btn btn-default" href="#jay">Jay's story &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+
