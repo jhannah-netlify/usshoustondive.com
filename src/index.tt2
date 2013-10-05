@@ -1,4 +1,7 @@
-[% WRAPPER layout.tt2 title = "USS Houston CA-30 Dive Team" %]
+[% WRAPPER layout.tt2 
+     title = "USS Houston CA-30 Dive Team" 
+     home_active = "active"
+%]
 
 
     [% INCLUDE carousel.tt2 %]

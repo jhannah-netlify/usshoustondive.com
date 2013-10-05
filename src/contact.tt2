@@ -1,0 +1,14 @@
+[% WRAPPER layout.tt2
+     title = "USS Houston CA-30: Contact info"
+     contact_active = "active"
+%]
+
+
+<h1>Contact Info</h1>
+
+<p>TODO</p>
+
+
+[% END %]
+
+
