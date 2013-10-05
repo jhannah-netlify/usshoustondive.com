@@ -6,7 +6,12 @@
 
 <h1>About</h1>
 
-<p>TODO</p>
+<p>Hi. I've only spent about a day on this website so far. Bear with me as I continue to develop it.</p>
+
+<p>Better yet, feel free to help me! This website is open source, you can
+<a href="https://github.com/jhannah/usshoustondive.com">help me improve it!</a> :)</p>
+
+<p>-- Jay Hannah</p>
 
 
 [% END %]

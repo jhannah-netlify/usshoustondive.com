@@ -21,4 +21,7 @@
        [% INCLUDE diver_boxes.tt2 %]
 
 
+    </div>
+
+
 [% END %]
