@@ -6,7 +6,19 @@
 
 <h1>Contact Info</h1>
 
-<p>TODO</p>
+<h3>This website</h3>
+
+<address>
+  <strong>Jay Hannah</strong><br>
+  grandson of Earl C. Humphrey<br>
+  1-402-598-7782<br>
+  Skype: deafferret<br>
+  jay@jays.net
+</address>
+
+<h3>USS Houston (CA-30) Next Generation</h3>
+
+<a href="http://www.usshouston.org/contactus.htm">http://www.usshouston.org/contactus.htm</a>
 
 
 [% END %]

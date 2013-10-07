@@ -40,6 +40,30 @@
 
       <hr class="featurette-divider">
 
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="/assets/images/IMAG1668.JPG" height=500 width=500>
+        </div>
+        <div class="col-md-7">
+          <h2>Jerry Ranger</h2>
+          <p>TODO</p>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2>Brad Gift & Eunju</h2>
+          <p>TODO</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="/assets/images/Eunju and Brad.jpg" height=500 width=500>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
       <a name="jay"></a>
       <div class="row featurette">
         <div class="col-md-5">
