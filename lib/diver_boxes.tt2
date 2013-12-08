@@ -10,7 +10,7 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="/assets/images/06_10_11_21_24_47.jpg" height=500 width=500>
+          <img class="featurette-image img-responsive" src="/assets/images/2011/06_10_11_21_24_47.jpg" height=500 width=500>
         </div>
       </div>
 
@@ -18,7 +18,7 @@
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="/assets/images/houston dive 037.JPG" height=500 width=500>
+          <img class="featurette-image img-responsive" src="/assets/images/2008/houston dive 037.thumbnail.jpg" height=500 width=500>
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
@@ -34,31 +34,33 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="/assets/images/Porthole with hatch cover.jpg" height=500 width=500>
+          <img class="featurette-image img-responsive" src="/assets/images/2008/Porthole with hatch cover.jpg" height=500 width=500>
         </div>
       </div>
 
       <hr class="featurette-divider">
 
+      <a name="jerry"></a>
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="/assets/images/IMAG1668.JPG" height=500 width=500>
+          <img class="featurette-image img-responsive" src="/assets/images/2006/DAVID,%20STUDENT,JERRY,DANIEL%20AND%20BRAD%20297.thumbnail.jpg" height=500 width=500>
         </div>
         <div class="col-md-7">
           <h2>Jerry Ranger</h2>
-          <p>TODO</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam euismod, lacus at vehicula sollicitudin, augue libero tincidunt lorem, eget cursus nisl dolor vel sem. Nulla mi tellus, interdum in mollis quis, tempor sit amet lorem. Fusce vel orci id libero porttitor porta vel quis sem. Maecenas vitae cursus tortor, ut interdum elit. Quisque feugiat, nibh in tempus gravida, leo lacus dignissim lorem, vitae consequat magna ante at libero. Nunc varius turpis vel nisi tincidunt malesuada. Pellentesque et augue non purus iaculis egestas.</p>
         </div>
       </div>
 
       <hr class="featurette-divider">
 
+      <a name="brad"></a>
       <div class="row featurette">
         <div class="col-md-7">
-          <h2>Brad Gift & Eunju</h2>
-          <p>TODO</p>
+          <h2>Brad Gift</h2>
+          <p><a href="https://www.dropbox.com/sh/xjiiq9vsvl6cykf/r22dUe17Zg/2006#lh:null-Brad%20Interview%20Final.mpg">Intro video</a>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam euismod, lacus at vehicula sollicitudin, augue libero tincidunt lorem, eget cursus nisl dolor vel sem. Nulla mi tellus, interdum in mollis quis, tempor sit amet lorem. Fusce vel orci id libero porttitor porta vel quis sem. Maecenas vitae cursus tortor, ut interdum elit. Quisque feugiat, nibh in tempus gravida, leo lacus dignissim lorem, vitae consequat magna ante at libero. Nunc varius turpis vel nisi tincidunt malesuada. Pellentesque et augue non purus iaculis egestas.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="/assets/images/Eunju and Brad.jpg" height=500 width=500>
+          <img class="featurette-image img-responsive" src="/assets/images/2006/BRAD 06  01 172 a .thumbnail.jpg" height=500 width=500>
         </div>
       </div>
 
@@ -67,7 +69,7 @@
       <a name="jay"></a>
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="/assets/images/jay.jpg" height=500 width=500>
+          <img class="featurette-image img-responsive" src="/assets/images/2013/jay2.jpg" height=500 width=500>
         </div>
         <div class="col-md-7">
           <h2>Jay Hannah</h2>

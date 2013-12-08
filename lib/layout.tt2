@@ -67,7 +67,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2004-2013 USS Houston CA-30 Dive Team &middot; All Rights Reserved.</p>
+        <p>&copy; 2004-2013 USS Houston CA-30 Dive Team &middot; All Rights Reserved. <a href="http://github.com/jhannah/usshoustondive.com">Patches welcome.</a></p>
       </footer>
 
     </div><!-- /.container -->

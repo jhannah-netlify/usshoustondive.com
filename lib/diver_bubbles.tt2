@@ -1,33 +1,58 @@
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
+
+
         <div class="col-lg-4">
-          <img class="img-circle" src="/assets/images/IMAG1668.JPG" height=140 width=140>
+          <img class="img-circle" src="/assets/images/2011/IMAG1668.thumbnail.jpg" height=140 width=140>
           <h2>Jerry Ranger</h2>
-          <p>Son of John W. Ranger. Divemaster.</p>
-          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+          <p>Son of John W. Ranger. Divemaster. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#jerry">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
-          <img class="img-circle" src="/assets/images/houston dive 8th tee shirt 007.JPG" height=140 width=140>
+          <img class="img-circle" src="/assets/images/2008/houston dive 8th tee shirt 007.thumbnail.jpg" height=140 width=140>
           <h2>Brad Gift</h2>
+          <p><a href="https://www.dropbox.com/sh/xjiiq9vsvl6cykf/r22dUe17Zg/2006#lh:null-Brad%20Interview%20Final.mpg">Intro video</a>. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#brad">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/2013/richard_rigby.jpg" height=140 width=140>
+          <h2>Richard Rigby</h2>
           <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#richard">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
-          <img class="img-circle" src="/assets/images/dive march 5, 2008 027.JPG" height=140 width=140>
-          <h2>Eunju</h2>
-          <p>donec sed odio dui. cras justo odio, dapibus ac facilisis in, egestas eget quam. vestibulum id ligula porta felis euismod semper. fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#">view details &raquo;</a></p>
+          <img class="img-circle" src="/assets/images/2011/mason_logie.jpg" height=140 width=140>
+          <h2>Mason Logie</h2>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#mason">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
-          <img class="img-circle" src="/assets/images/jay.jpg" height=140 width=140>
+          <img class="img-circle" src="/assets/images/2013/david_phillips.jpg" height=140 width=140>
+          <h2>David Phillips</h2>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#david">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/2013/jolene_ranger_stewart.jpg" height=140 width=140>
+          <h2>Jolene Ranger Stewart</h2>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#jolene">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/2013/jay.thumbnail.jpg" height=140 width=140>
           <h2>Jay Hannah</h2>
           <p>Grandson of Earl C. Humphrey, Jay will be the first 2nd generation of any survivor to dive the Houston. Hopefully not the last. :)</p>
           <p><a class="btn btn-default" href="#jay">Jay's story &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
+
+
       </div><!-- /.row -->
 
 
