@@ -7,6 +7,11 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="/assets/ico/favicon.png">
 
+    <!-- Make FaceBook happy. https://developers.facebook.com/tools/debug/og/object?q=http%3A%2F%2Fdive.jays.net -->
+    <meta property="og:image" content="http://dive.jays.net/assets/images/2008/USS-Houston4.jpg" />
+    <meta property="og:url"   content="http://dive.jays.net" />
+    <meta property="og:title" content="USS Houston CA-30 Dive Team" />
+
     <title>[% title %]</title>
 
     <!-- Bootstrap core CSS -->
