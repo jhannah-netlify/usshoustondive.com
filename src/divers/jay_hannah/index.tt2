@@ -1,20 +1,43 @@
 [% WRAPPER layout.tt2
      title = "USS Houston CA-30: About"
-     about_active = "active"
+     # about_active = "active"
 %]
 
 <h1>Earl Chapman Humphrey</h1>
 
-<img src="/assets/images/divers/jay_hannah/Earl%20Chapman%20Humphrey.thumbnail.jpeg">
-<img src="/assets/images/divers/jay_hannah/USSHoustonCA30.thumbnail.jpeg">
+<img src="/assets/images/divers/jay_hannah/Earl%20Chapman%20Humphrey.thumbnail.jpeg" alt="Earl C. Humphrey">
+<img src="/assets/images/divers/jay_hannah/USSHoustonCA30.thumbnail.jpeg" alt="USS Houston CA-30">
 
-<p>paragraph 1</p>
+<p>My grandfather was an amazing man. After serving on the USS Houston he and my grandmother raised my 
+mother, and spent lots of time with his grandkids: my brother and me.</p>
 
-<img src="/assets/images/divers/jay_hannah/jay_earl.thumbnail.jpeg">
-<img src="/assets/images/divers/jay_hannah/hannah_humphrey3.thumbnail.jpeg">
+<p>I learned a lot about life from Earl. I miss him.</p>
 
-<p>paragraph 2</p>
+<p>I have several hours of his oral history and scans of his WWII stuff in Dropbox. My father has thousands of photos of my grandparents, the farm, and southeast Iowa. If you'd like to hear and see some of it contact me: jay@jays.net.</p>
 
+<img src="/assets/images/divers/jay_hannah/jay_earl.thumbnail.jpeg" alt="Jay and Earl">
+<img src="/assets/images/divers/jay_hannah/hannah_humphrey3.thumbnail.jpeg" alt="Brad Jay Sharon Marine Jim Earl">
+
+
+<h2>Obituary</h2>
+
+<p>
+Burlington Hawk-Eye Nov 27, 2000
+</p><p>
+Earl C. Humphrey, 80, 2778 Jefferson, Mount Pleasant, died at 12:40 a.m. Saturday, Nov. 25, 2000, at Independence Regional Health Center in Independence, Mo. Born Jan. 7, 1920, near Glasgow, he was the son of Burton Litton and Maggie Hudson Humphrey. On Dec. 28, 1946, he married Marine Stark in Corpus Christi, Texas.
+</p><p>
+Mr. Humphrey was a foreman and inspector for the Iowa Army Ammunition Plant in Middletown before his retirement.
+He lived most of his life near Mount Pleasant. He was a World War II Navy veteran and an Elder in the Reorganized Church of Jesus Christ of Latter Day Saints in Mount Pleasant.
+</p><p>
+Survivors include his wife; one daughter, Sharon Hannah of Independence; two grandchildren; and one brother, Howard Humphrey of Burlington. He was preceded in death by his parents, three brothers and one sister.
+</p><p>
+Visitation will be from 6:30 until 8 p.m. today at Behner Funeral Home in Fairfield. The funeral for Mr. Humphrey will be at 1 p.m. Tuesday at Behner Funeral Home, with Elder Larry Jannings officiating. Burial with military rites will be in Evergreen Cemetery in Fairfield.
+</p><p>
+A memorial has been established for the USS Houston Survivors Association, 5848 Backbay Lane, Austin, TX 78739.
+</p>
+
+
+<h2>POW Information</h2>
 
 <pre>
 From: Dana Charles <contact@usshouston.org>
