@@ -24,13 +24,6 @@
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
-          <img class="img-circle" src="/assets/images/2013/jay.thumbnail.jpg" height=140 width=140>
-          <h2>Jay Hannah</h2>
-          <p>Grandson of Earl C. Humphrey, Jay will be the first 2nd generation of any survivor to dive the Houston. Jay will not be the last. :)</p>
-          <p><a class="btn btn-default" href="#jay">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-
-        <div class="col-lg-4">
           <img class="img-circle" src="/assets/images/2013/richard_rigby.jpg" height=140 width=140>
           <h2>Richard Rigby</h2>
         </div><!-- /.col-lg-4 -->
@@ -43,6 +36,13 @@
         <div class="col-lg-4">
           <img class="img-circle" src="/assets/images/2013/jolene_ranger_stewart.jpg" height=140 width=140>
           <h2>Jolene Ranger Stewart</h2>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/2013/jay.thumbnail.jpg" height=140 width=140>
+          <h2>Jay Hannah</h2>
+          <p>Grandson of Earl C. Humphrey, Jay will be the first 2nd generation of any survivor to dive the Houston. Jay will not be the last. :)</p>
+          <p><a class="btn btn-default" href="#jay">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
 
