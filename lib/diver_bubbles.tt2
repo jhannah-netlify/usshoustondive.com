@@ -6,47 +6,43 @@
         <div class="col-lg-4">
           <img class="img-circle" src="/assets/images/2006/Jerry and Houston1a.thumbnail.JPG" height=140 width=140>
           <h2>Jerry Ranger</h2>
-          <p>Son of John W. Ranger. Master diver. Dive team leader.</p>
+          <p>Son of John W. Ranger. Dive team leader. Naui Master Scuba diver (1972), several hundred dives all over the world, 26 dives on the USS Houston (2004, 2006, 2008).</p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
           <img class="img-circle" src="/assets/images/2008/houston dive 8th tee shirt 007.thumbnail.jpg" height=140 width=140>
           <h2>Brad Gift</h2>
-          <p><a href="https://www.dropbox.com/sh/xjiiq9vsvl6cykf/r22dUe17Zg/2006#lh:null-Brad%20Interview%20Final.mpg">Intro video</a>. Worked for the US Defense Attache in Jakarta. Helped organize the 60th anniversary dive in 2002. Has more than 60 dives on the Houston.</p>
-        </div><!-- /.col-lg-4 -->
-
-        <div class="col-lg-4">
-          <img class="img-circle" src="/assets/images/2013/richard_rigby.jpg" height=140 width=140>
-          <h2>Richard Rigby</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#richard">View details &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-
-        <div class="col-lg-4">
-          <img class="img-circle" src="/assets/images/2011/mason_logie.jpg" height=140 width=140>
-          <h2>Mason Logie</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#mason">View details &raquo;</a></p>
+          <p><a href="https://www.dropbox.com/sh/xjiiq9vsvl6cykf/r22dUe17Zg/2006#lh:null-Brad%20Interview%20Final.mpg">Intro video</a>. Worked for the US Defense Attache in Jakarta. Helped organize the 60th anniversary dive in 2002. Has more than 80 dives on the Houston.</p>
+          <p><a class="btn btn-default" href="#brad">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
           <img class="img-circle" src="/assets/images/2013/david_phillips.jpg" height=140 width=140>
           <h2>David Phillips</h2>
-          <p>VideoRay Operator, diver.</p>
-        </div><!-- /.col-lg-4 -->
-
-        <div class="col-lg-4">
-          <img class="img-circle" src="/assets/images/2013/jolene_ranger_stewart.jpg" height=140 width=140>
-          <h2>Jolene Ranger Stewart</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#jolene">View details &raquo;</a></p>
+          <p>VideoRay Operator, NAUI certified diver since 1977. I have done numerous dives in fresh and salt water including 5 wrecks on Lake Superior and dives with Jerry Ranger on the USS Houston in August of 2006.</p>
+          <p><a class="btn btn-default" href="#david">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
           <img class="img-circle" src="/assets/images/2013/jay.thumbnail.jpg" height=140 width=140>
           <h2>Jay Hannah</h2>
           <p>Grandson of Earl C. Humphrey, Jay will be the first 2nd generation of any survivor to dive the Houston. Jay will not be the last. :)</p>
-          <p><a class="btn btn-default" href="#jay">Jay's story &raquo;</a></p>
+          <p><a class="btn btn-default" href="#jay">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/2013/richard_rigby.jpg" height=140 width=140>
+          <h2>Richard Rigby</h2>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/2011/mason_logie.jpg" height=140 width=140>
+          <h2>Mason Logie</h2>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/images/2013/jolene_ranger_stewart.jpg" height=140 width=140>
+          <h2>Jolene Ranger Stewart</h2>
         </div><!-- /.col-lg-4 -->
 
 
