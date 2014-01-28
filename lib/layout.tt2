@@ -43,8 +43,6 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="[% home_active %]"><a href="/">Home</a></li>
-                <li class="[% about_active %]"><a href="/about.html">About</a></li>
                 <li class="[% contact_active %]"><a href="/contact.html">Contact</a></li>
                 <li class="dropdown [% dive_years_active %]">
                   <a href="dive_years.html" class="dropdown-toggle" data-toggle="dropdown">Dive Years <b class="caret"></b></a>

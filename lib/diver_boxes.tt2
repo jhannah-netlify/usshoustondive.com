@@ -6,8 +6,11 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Promoting history. <span class="text-muted">Keeping memories alive.</span></h2>
+          <p class="lead">The "Galloping Ghost of the Java Coast," the USS Houston CA-30 was once the 
+          flagship of the Asiatic Fleet, and US President Franklin D. Roosevelt's favorite. On February 29 1942, the
+          Houston was sunk by the Japanese navy. Of the original crew of 1,061 men, 368 survived, including 24 of the 
+          74-man USMC detachment, only to be captured by the Japanese and interned in prison camps.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="/assets/images/2011/06_10_11_21_24_47.jpg" height=500 width=500>
@@ -21,8 +24,8 @@
           <img class="featurette-image img-responsive" src="/assets/images/2008/houston dive 037.thumbnail.jpg" height=500 width=500>
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Recording the legacy. <span class="text-muted">Documenting for future generations.</span></h2>
+          <p class="lead">The story of the USS Houston has been overlooked over the years, but we are determined to honor both the ship and crew by our continued efforts to preserve those pieces of history that have been forgotten. Videotaping the ship serves to show how nature is taking the ship back to the sea. We seek to preserve information about the ship for educational purposes for generations to come.</p>
         </div>
       </div>
 

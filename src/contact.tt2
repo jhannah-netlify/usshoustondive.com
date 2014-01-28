@@ -4,7 +4,14 @@
 %]
 
 
+<img src="/assets/images/USSHoustonCA30.jpeg">
+
 <h1>Contact Info</h1>
+
+<h3>USS Houston (CA-30) Next Generation</h3>
+
+<a href="http://www.usshouston.org/contactus.htm">http://www.usshouston.org/contactus.htm</a>
+
 
 <h3>This website</h3>
 
@@ -16,9 +23,14 @@
   jay@jays.net
 </address>
 
-<h3>USS Houston (CA-30) Next Generation</h3>
 
-<a href="http://www.usshouston.org/contactus.htm">http://www.usshouston.org/contactus.htm</a>
+
+<a href="http://en.wikipedia.org/wiki/USS_Houston_(CA-30)">Wikipedia</a> has lots of helpful links. 
+This website is open source, you can
+<a href="https://github.com/jhannah/usshoustondive.com">help me improve it!</a> :) The dive site:</p>
+
+<img src="/assets/images/map.jpg">
+
 
 
 [% END %]
