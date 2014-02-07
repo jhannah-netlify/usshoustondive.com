@@ -6,11 +6,24 @@
 
 <h1>Dives in 2014</h1>
 
-<p>TODO</p>
+<p>Fundraising has begun!</p>
+
+<p>Please sign <a href="https://www.change.org/en-AU/petitions/prime-minister-of-australia-the-hon-tony-abbott-help-save-hmas-perth-support-the-hmas-perth-being-listed-as-an-official-war-grave-and-stop-the-salvaging-in-the-sunda-strait" target="_blank">this petition</a> to block salvage operations.
+
 
 [% INCLUDE '2014/salvage_fb.tt2' %]
+
+<div class="text-center">
+  <img src="/assets/images/2014/salvage.jpg"></br>
+  Recent salvage operations on a Dutch Submarine.
+</div>
+
 [% INCLUDE '2014/salvage_bb.tt2' %]
 
+<div class="text-center">
+  <iframe width="420" height="315" src="//www.youtube.com/embed/UVGAbhXv5OY" frameborder="0" allowfullscreen></iframe><br/>
+  <a href="http://www.abc.net.au/news/2013-12-14/wwii-shipwreck-hmas-perth-stripped-by-bounty/5157076" target="_blank">another video</a>
+</div>
 
 [% END %]
 
