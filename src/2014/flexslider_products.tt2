@@ -2,8 +2,10 @@
 
 <div class="flexslider">
   <ul class="slides">
+    <li><img src="/assets/2014/fund raiser/tile.thumbnail.jpg"></li>
     <li><img src="/assets/2014/fund raiser/coin1.thumbnail.jpg"></li>
     <li><img src="/assets/2014/fund raiser/coin2.thumbnail.jpg"></li>
+    <li><img src="/assets/2014/fund raiser/shirt.thumbnail.jpg"></li>
   </ul>
 </div>
 
