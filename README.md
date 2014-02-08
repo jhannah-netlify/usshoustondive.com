@@ -8,5 +8,5 @@ To generate the website:
 
 Jay syncs the Dropbox images over to the website like so:
   rsync -av --progress --delete \
-    ~/Dropbox/Shared/houston\ file/images jays.net:/var/www/usshoustondive.com/assets/
+    ~/Dropbox/Shared/houston\ file/ jays.net:/var/www/usshoustondive.com/assets/
 
