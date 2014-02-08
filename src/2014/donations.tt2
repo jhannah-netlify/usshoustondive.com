@@ -1,5 +1,6 @@
 <h2>Donations</h2>
 
+<div>
 <p>
 <b>Memory Tile (6" by 6")</b>
 For a $1,000.00 you get two Memory Tiles (6" by 6"), one will be send to you and the other will be taken over to the USS HOUSTON  in Sunda Straits and place on the Ship. A photograph will show it on the USS HOUSTON'S hull before being place inside.</p>
@@ -25,6 +26,14 @@ gold or silver. For $250.00 you get a USS HOUSTON CA-30 ship laped pin, that wil
   <li>For $ 35.00 plus $5.80 (mail) you can buy a tee shirt size 2XL to 4XL.</li>
 </ul>
 </p>
+
+</div>
+<div>
+
+   [% INCLUDE 'flexslider_products.tt2'; %]
+
+</div>
+
 
 <p>
 Make all checks out to:<br/>

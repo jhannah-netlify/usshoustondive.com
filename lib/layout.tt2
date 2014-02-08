@@ -25,6 +25,7 @@
 
     <!-- Custom styles for this template -->
     <link href="/assets/css/carousel.css" rel="stylesheet">
+
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -81,6 +82,16 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/assets/js/jquery.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
+
+
+    <link href="/assets/css/flexslider.css" rel="stylesheet">
+    <script src="/assets/js/jquery.flexslider.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      $(window).load(function() {
+        $('.flexslider').flexslider();
+      });
+    </script>
+
   </body>
 </html>
 
