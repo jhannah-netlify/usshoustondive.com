@@ -8,7 +8,11 @@
 
 [% INCLUDE '2014/mission.tt2' %]
 
-[% INCLUDE '2014/donations.tt2' %]
+<h2>Donations</h2>
+
+[% INCLUDE '2014/donation_items.tt2' %]
+
+[% INCLUDE 'donation_contact_info.tt2' %]
 
 [% INCLUDE '2014/salvage_fb.tt2' %]
 
