@@ -4,7 +4,8 @@ usshoustondive.com
 USS Houston (CA-30) Dive Team website
 
 To generate the website:
-  ttree -f ttree.cfg
+
+    ttree -f ttree.cfg
 
 Jay syncs the Dropbox images over to the website like so:
 
