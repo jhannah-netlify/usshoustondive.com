@@ -4,12 +4,16 @@
 %]
 
 
-<h1>Dives in 2014</h1>
-
 <p>Fundraising has begun!</p>
 
 <p>Please sign <a href="https://www.change.org/en-AU/petitions/prime-minister-of-australia-the-hon-tony-abbott-help-save-hmas-perth-support-the-hmas-perth-being-listed-as-an-official-war-grave-and-stop-the-salvaging-in-the-sunda-strait" target="_blank">this petition</a> to block salvage operations.
 
+
+[% INCLUDE '2014/team.tt2' %]
+
+[% INCLUDE '2014/mission.tt2' %]
+
+[% INCLUDE '2014/donations.tt2' %]
 
 [% INCLUDE '2014/salvage_fb.tt2' %]
 
