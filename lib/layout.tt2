@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="/assets/ico/favicon.png">
 
     <!-- Make FaceBook happy. https://developers.facebook.com/tools/debug/og/object?q=http%3A%2F%2Fdive.jays.net -->
-    <meta property="og:image" content="http://dive.jays.net/assets/images/2008/USS-Houston4.jpg" />
+    <meta property="og:image" content="http://dive.jays.net/assets/2008/USS-Houston4.jpg" />
     <meta property="og:url"   content="http://dive.jays.net" />
     <meta property="og:title" content="USS Houston CA-30 Dive Team" />
 
@@ -79,9 +79,8 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/assets/js/jquery.js"></script>
-    <script src="/assets/js/bootstrap.min.js"></script>
-    <script src="/assets/js/holder.js"></script>
+    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
   </body>
 </html>
 

@@ -13,7 +13,7 @@
 [% INCLUDE '2014/salvage_fb.tt2' %]
 
 <div class="text-center">
-  <img src="/assets/images/2014/salvage.jpg"></br>
+  <img src="/assets/2014/salvage.jpg"></br>
   Recent salvage operations on a Dutch Submarine.
 </div>
 
