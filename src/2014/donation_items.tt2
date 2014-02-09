@@ -30,7 +30,7 @@ gold or silver. For $250.00 you get a USS HOUSTON CA-30 ship laped pin, that wil
   </div>
   <div class="col-md-4">
 
-    [% INCLUDE '2014/flexslider_products.tt2'; %]
+    [% INCLUDE '2014/flexslider_items.tt2'; %]
 
   </div>
 </div>
