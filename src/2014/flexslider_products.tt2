@@ -2,9 +2,13 @@
 
 <div class="flexslider">
   <ul class="slides">
-    <li><img src="/assets/2014/fund raiser/tile.thumbnail.jpg"></li>
+    <li><img src="/assets/2014/fund raiser/tile6.thumbnail.jpg"></li>
+    <li><img src="/assets/2014/fund raiser/tile6.thumbnail2.jpeg"></li>
+    <li><img src="/assets/2014/fund raiser/tile4.thumbnail.jpeg"></li>
     <li><img src="/assets/2014/fund raiser/coin1.thumbnail.jpg"></li>
     <li><img src="/assets/2014/fund raiser/coin2.thumbnail.jpg"></li>
+    <li><img src="/assets/2014/fund raiser/lapelshipgold.thumbnail.jpeg"></li>
+    <li><img src="/assets/2014/fund raiser/lapelmemorial.jpg"></li>
     <li><img src="/assets/2014/fund raiser/shirt.thumbnail.jpg"></li>
   </ul>
 </div>
