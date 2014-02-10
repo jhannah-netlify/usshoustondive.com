@@ -8,11 +8,17 @@
 
 [% INCLUDE '2014/mission.tt2' %]
 
+
+
 <h2>Donations</h2>
 
 [% INCLUDE '2014/donation_items.tt2' %]
 
 [% INCLUDE 'donation_contact_info.tt2' %]
+
+<img src="/assets/2014/fund raiser/budget.png">
+
+
 
 [% INCLUDE '2014/salvage_fb.tt2' %]
 
