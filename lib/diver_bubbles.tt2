@@ -45,6 +45,14 @@
           <p><a class="btn btn-default" href="#jay">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/2013/deb.thumbnail.jpg" height=140 width=140>
+          <h2>Deborah Kay Clark</h2>
+          <p>Grandmother's brother was Ellis Burton Hostick, a GM3 on the USS Houston.</p>
+          <p><a class="btn btn-default" href="#deb">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+
+
 
       </div><!-- /.row -->
 
