@@ -4,7 +4,19 @@
 %]
 
 
+<div class="row">
+  <div class="col-md-8">
+
 [% INCLUDE '2014/team.tt2' %]
+
+  </div>
+  <div class="col-md-4">
+
+<iframe src="http://www.indiegogo.com/project/uss-houston-ca-30-dive-team-2014/widget" width="224px" height="486px" frameborder="0" scrolling="no"></iframe>
+
+  </div>
+</div>
+
 
 [% INCLUDE '2014/mission.tt2' %]
 
