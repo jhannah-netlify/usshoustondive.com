@@ -3,6 +3,7 @@
      dive_years_active = "active"
 %]
 
+<h1>2014 Dive Team</h1>
 
 [% INCLUDE '2014/updates.tt2' %]
 [% INCLUDE '2014/mission.tt2' %]
