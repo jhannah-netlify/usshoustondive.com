@@ -4,7 +4,6 @@
 %]
 
 
-[% INCLUDE '2014/team.tt2' %]
 [% INCLUDE '2014/updates.tt2' %]
 [% INCLUDE '2014/mission.tt2' %]
 
