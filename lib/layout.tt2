@@ -10,7 +10,7 @@
     <!-- Make FaceBook happy: https://developers.facebook.com/tools/debug/og/object/ -->
     <meta property="og:image" content="http://usshoustondive.com/assets/2008/USS-Houston4.jpg" />
     <meta property="og:title" content="USS Houston CA-30 Dive Team" />
-    <meta property="og:description" content="USS Houston CA-30 Dive Team - Family and friends of 'The Galloping Ghost of the Java Coast' and Flagship of the Asiatic Fleet scuba diving the grave site near Jakarta Indonesia to perpetuate and honor the memories of the brave men who fought and died on March 1 1942." />
+    <meta property="og:description" content="Family and friends of 'The Galloping Ghost of the Java Coast' and Flagship of the Asiatic Fleet scuba diving the grave site near Jakarta Indonesia to perpetuate and honor the memory of the brave men who fought and died on March 1 1942." />
 
     <title>[% title %]</title>
 
