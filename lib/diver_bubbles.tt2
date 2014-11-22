@@ -6,7 +6,21 @@
         <div class="col-lg-4">
           <img class="img-circle" src="/assets/2006/Jerry and Houston1a.thumbnail.JPG" height=140 width=140>
           <h2>Jerry Ranger</h2>
-          <p>Son of John W. Ranger. Dive team leader. Naui Master Scuba diver (1972), several hundred dives all over the world, 26 dives on the USS Houston (2004, 2006, 2008).</p>
+          <p>Son of John W. Ranger. Dive team leader. Naui Master Scuba diver (1972), several hundred dives all over the world, 26 dives on the USS Houston (2004, 2006, 2008, 2014).</p>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/2014/alex_diver_small.jpg" height=140 width=140>
+          <h2>Alex Weißinger</h2>
+          <p>Grandson of William J. Weißinger Jr.<br/>2014 Dive Team member.</p>
+          <p><a class="btn btn-default" href="#alex">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+
+        <div class="col-lg-4">
+          <img class="img-circle" src="/assets/2013/jay.thumbnail.jpg" height=140 width=140>
+          <h2>Jay Hannah</h2>
+          <p>Grandson of <a href="/divers/jay_hannah/">Earl C. Humphrey</a>.<br/>2014 Dive Team member.</p>
+          <p><a class="btn btn-default" href="#jay">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
@@ -36,13 +50,6 @@
         <div class="col-lg-4">
           <img class="img-circle" src="/assets/2013/jolene_ranger_stewart.jpg" height=140 width=140>
           <h2>Jolene Ranger Stewart</h2>
-        </div><!-- /.col-lg-4 -->
-
-        <div class="col-lg-4">
-          <img class="img-circle" src="/assets/2013/jay.thumbnail.jpg" height=140 width=140>
-          <h2>Jay Hannah</h2>
-          <p>Grandson of Earl C. Humphrey, Jay will be the first 2nd generation of any survivor to dive the Houston. Jay will not be the last. :)</p>
-          <p><a class="btn btn-default" href="#jay">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
