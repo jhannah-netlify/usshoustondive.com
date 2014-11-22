@@ -1,0 +1,8 @@
+<h2>Donations</h2>
+
+[% INCLUDE 'donation_contact_info.tt2' %]
+[% INCLUDE 'donation_items.tt2' %]
+
+<img src="/assets/2014/fund raiser/budget.png">
+
+

@@ -5,29 +5,10 @@
 
 <h1>2014 Dive Team</h1>
 
-<div class="row">
-  <div class="col-md-9">
-
-    [% INCLUDE '2014/updates.tt2' %]
-
-  </div>
-  <div class="col-md-3">
-
-<iframe src="https://www.indiegogo.com/project/uss-houston-ca-30-dive-team-2016/embedded/879196" width="222px" height="445px" frameborder="0" scrolling="no"></iframe>
-
-  </div>
-</div>
-
-
+[% INCLUDE '2014/updates.tt2' %]
 
 [% INCLUDE '2014/mission.tt2' %]
 
-
-<h2>Donations</h2>
-[% INCLUDE '2014/donation_items.tt2' %]
-[% INCLUDE 'donation_contact_info.tt2' %]
-
-<img src="/assets/2014/fund raiser/budget.png">
 
 [% INCLUDE '2014/salvage_fb.tt2' %]
 
