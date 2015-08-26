@@ -1,0 +1,22 @@
+[% WRAPPER layout.tt2
+     title = "USS Houston CA-30: Dives in 2014"
+     dive_years_active = "active"
+%]
+
+<h1>Water Police Fundraiser</h1>
+
+<p>2015-08-19</p>
+
+
+<h3>The Idea</h3>
+
+
+<h3>The Failure</h3>
+
+
+
+<a href="/divers/jay_hannah">Earl C. Humphrey</a>
+
+
+[% END %]
+
