@@ -8,8 +8,8 @@
 <p>The Dive Team hopes to return to the USS Houston CA-30 in 2016.</p>
 
 <ul>
-<li><a href="/2015/2015-08-26.html">Water Police fund raiser update</a>
-<li><a href="/2015/2015-08-27.html">Letters of support for the Dive Team</a>
+<li>2015-08-26 <a href="/2015/2015-08-26.html">Water Police fund raiser update</a>
+<li>2015-08-27 <a href="/2015/2015-08-27.html">Letters of support for the Dive Team</a>
 </ul>
 
 [% INCLUDE 'donations.tt2' %]
