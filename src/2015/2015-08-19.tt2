@@ -5,7 +5,7 @@
 
 <h1>Water Police Fund Raiser</h1>
 
-<p>2015-08-24</p>
+<h2>2015-08-19 Update</h2>
 
 <h3>The Idea</h3>
 
@@ -51,10 +51,7 @@ November 20, 2014 - April 30, 2015: Balance $6.00<br/>
 I apologize things did not work out. Thank you for your understanding. 
 </p>
 
-<p>
-Jay Hannah<br/>
-Grandson, <a href="/divers/jay_hannah">Earl C. Humphrey</a><br/>
-Omaha, NE USA 1-402-598-7782 jay@jays.net
+[% INCLUDE 'jay_hannah.tt2' %]
 
 
 [% END %]
