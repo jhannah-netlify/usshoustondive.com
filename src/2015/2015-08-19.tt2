@@ -10,46 +10,105 @@
 <h3>The Idea</h3>
 
 <p>
-<img class="featurette-image img-responsive" src="/assets/2014/alex_water_police.jpg" height=500 width=500 align="right">
+<img class="featurette-image img-responsive" src="/assets/2014/alex_water_police.jpg" height=500 width=500 align="right" hspace=12>
 
-On <a href="/2014/#2014-08-26">August 26, 2014</a> the Dive Team 
-arrived over the USS Houston CA-30 in 
-Indonesia to discover small-scale salvage operations underway. 
-With sirens and loud speakers our guide & translator scared them off.
-They remained away from the Houston for the 10 days we were there. 
-On <a href="/2014/#2014-09-03">September 3, 2014</a> we departed 
-the Houston. We assume salvage operations resumed shortly thereafter.
-</p>
+On <a href="/2014/#2014-08-26">August 26, 2014</a> the Dive Team arrived over
+the USS Houston CA-30 in Indonesia to discover small-scale salvage operations
+underway. With sirens and loud speakers our guide & translator Daniel Tangguh
+scared them off. They remained away from the Houston for the 10 days we were
+there. On <a href="/2014/#2014-09-03">September 3, 2014</a> we departed the
+Houston. Presumably, salvage operations resumed shortly thereafter.</p>
 
-<p>
+<p>During our trip we met with the Indonesian Water Police several times.
+(See photo of Alex Weissinger (diver), grandson of William J. Weissinger jr.
+with two Water Police officers.) We encouraged them to do as much as they can
+to protect the Houston from salvage. They are sympathetic to our cause, but
+chief among their concerns was that while they have several patrol boats
+(flashy and undercover), they rarely have enough fuel for their boats for
+sufficient patrol time to perform all their duties.</p>
 
-Inm , November 2015 
+<p>We returned home, flew to Washington D.C. to meet with US Navy officials,
+then home again. The question remained: How can we best protect the Houston
+while we're not there on site? It seems to me that the Water Police are our
+best hope. Giving cash to the Water Police to fuel their patrol boats is not
+without risk. The reality of life in Indonesia is that it takes bribery to get
+law enforcement to do their jobs. Their salaries are meager and they have
+families to support. But if anyone can help, day after day, on site in
+Indonesia, it's the Water Police.</p>
 
-Reunion: March 7, 2015
+<p><b>What if we could get 500 people to give $1/month to the Water Police?</b>
+Most Americans wouldn't even notice $1/month out of their budgets, but $500/month
+might go a long way towards making a real dent in salvage operations on the
+Houston.</p>
+
+<h3>The Rollout</h3>
+
+<p>On November 20, 2014 I decided to start a micro-donation fund raiser for
+exactly that purpose. Give cash to the Indonesian Water Police. A website was
+available, called gratipay.com, which allows hundreds, or even thousands of
+people, to give as little as 1¢/week. All these tiny recurring donations are
+aggregated together. With enough people we could make a real difference.</p>
+
+<p>March 7, 2015 was the USS Houston Survivors Association reunion in Houston,
+Texas. I arrived at the reunion with 1000 business cards listing the
+gratipay.com address. My thought was that people at the reunion could take
+small stacks of these cards home, hand them out to family and friends. Could
+we find 500 people? More?</p>
+
+<p>We got our first few recurring donors to sign up. 25¢/week. $1/week. Small
+donations. I hoped our number of donors would grow steadily over time, as
+people gained trust for the system and spread the word to family and
+friends.</p>
 
 <h3>The Failure</h3>
 
-<p>
-<a href="https://gratipay.com/USSHoustonCA30WaterPolice/">Water Police on Gratipay</a>
-</p>
+<p>In April 2015 the gratipay.com website was dealt a devastating blow when 
+<a href="https://medium.com/gratipay-blog/gratipay-2-0-2453d3c53077">their
+credit card processor went out of business</a>. I was hopefully that this
+would just be a blip for a couple of months or something, then we could
+get back to business as usual.</p>
+
+<p>Unfortunately, it's now been 4 months since the implosion, and they think  
+<a href="https://github.com/gratipay/gratipay.com/issues/3556#issuecomment-120564471">"it
+could be a year"</a> before they 
+<a href="https://github.com/gratipay/gratipay.com/issues/3399">"turn the ship"</a>
+and become operational again.</p>
+
+<p>At this point it seems to me I best just declare the gratipay.com attempt
+of a fund raiser a failure. So I'm writing to you to let you know.</p>
+
+<p>I had set up two different accounts on gratipay.com. Here are their 
+balances as of when things froze up:</p>
+
+<p><a href="https://gratipay.com/USSHoustonCA30WaterPolice/">Water Police on Gratipay</a></p>
 
 <p>
 November 20, 2014 - April 30, 2015: Balance $113.48<br/>
 <img src="water_police.png">
 </p>
 
-
-<p>
-<a href="https://gratipay.com/USSHoustonCA30DiveTeam/">Dive Team on Gratipay</a>
+<p><a href="https://gratipay.com/USSHoustonCA30DiveTeam/">Dive Team on Gratipay</a></p>
 
 <p>
 November 20, 2014 - April 30, 2015: Balance $6.00<br/>
 <img src="dive_team.png">
 </p>
 
-<p>
-I apologize things did not work out. Thank you for your understanding. 
-</p>
+<p>Silver lining: I guess if things were going to implode with any specific donation
+processor, I'm glad they imploded with after only $120, not $12,000.</p>
+
+<p>I don't have access to the funds above, until they get their system sorted
+out. Who knows when that will end up being. In the meantime, I'm happy to
+personally reimburse donors. Please contact me with the information below,
+and I'll gladly refund your donations.</p>
+
+<p>I apologize things did not work out on gratipay.com. I still love the
+<b>idea</b>. I think $500/month might do a lot of good protecting the Houston.
+Their are no guarantees, but I also haven't heard any better idea. If we found
+enough people who wanted to try, we could set up shop on another donation
+platform (like <a href="http://patreon.com">patreon.com</a>?).</p> 
+
+<p>Thank you for your understanding. Please contact me with any concerns.</p>
 
 [% INCLUDE 'jay_hannah.tt2' %]
 
