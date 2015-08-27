@@ -1,21 +1,60 @@
 [% WRAPPER layout.tt2
-     title = "USS Houston CA-30: Dives in 2014"
+     title = "USS Houston CA-30: Water Police Fund Raiser"
      dive_years_active = "active"
 %]
 
-<h1>Water Police Fundraiser</h1>
+<h1>Water Police Fund Raiser</h1>
 
-<p>2015-08-19</p>
-
+<p>2015-08-24</p>
 
 <h3>The Idea</h3>
 
+<p>
+<img class="featurette-image img-responsive" src="/assets/2014/alex_water_police.jpg" height=500 width=500 align="right">
+
+On <a href="/2014/#2014-08-26">August 26, 2014</a> the Dive Team 
+arrived over the USS Houston CA-30 in 
+Indonesia to discover small-scale salvage operations underway. 
+With sirens and loud speakers our guide & translator scared them off.
+They remained away from the Houston for the 10 days we were there. 
+On <a href="/2014/#2014-09-03">September 3, 2014</a> we departed 
+the Houston. We assume salvage operations resumed shortly thereafter.
+</p>
+
+<p>
+
+Inm , November 2015 
+
+Reunion: March 7, 2015
 
 <h3>The Failure</h3>
 
+<p>
+<a href="https://gratipay.com/USSHoustonCA30WaterPolice/">Water Police on Gratipay</a>
+</p>
+
+<p>
+November 20, 2014 - April 30, 2015: Balance $113.48<br/>
+<img src="water_police.png">
+</p>
 
 
-<a href="/divers/jay_hannah">Earl C. Humphrey</a>
+<p>
+<a href="https://gratipay.com/USSHoustonCA30DiveTeam/">Dive Team on Gratipay</a>
+
+<p>
+November 20, 2014 - April 30, 2015: Balance $6.00<br/>
+<img src="dive_team.png">
+</p>
+
+<p>
+I apologize things did not work out. Thank you for your understanding. 
+</p>
+
+<p>
+Jay Hannah<br/>
+Grandson, <a href="/divers/jay_hannah">Earl C. Humphrey</a><br/>
+Omaha, NE USA 1-402-598-7782 jay@jays.net
 
 
 [% END %]
