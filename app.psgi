@@ -1,3 +1,8 @@
+# Run a local web server:
+# cd www
+# plackup ../app.psgi
+
+
 my $app    = Plack::App::IndexFile->new({ root => shift })->to_app;
 
 package Plack::App::IndexFile;
