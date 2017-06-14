@@ -48,7 +48,7 @@
                 <li class="dropdown [% dive_years_active %]">
                   <a href="dive_years.html" class="dropdown-toggle" data-toggle="dropdown">Dive Years <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="/2016/">2016</a></li>
+                    <li><a href="/future/">future</a></li>
                     <li><a href="/2014/">2014</a></li>
                     <li><a href="/2008/">2008</a></li>
                     <li><a href="/2006/">2006</a></li>
@@ -74,7 +74,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2004-2015 USS Houston CA-30 Dive Team &middot; All Rights Reserved. <a href="http://github.com/jhannah/usshoustondive.com">Patches welcome.</a></p>
+        <p>&copy; 2004-2017 USS Houston CA-30 Dive Team &middot; All Rights Reserved. <a href="http://github.com/jhannah/usshoustondive.com">Patches welcome.</a></p>
       </footer>
 
     </div><!-- /.container -->

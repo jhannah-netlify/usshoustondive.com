@@ -1,11 +1,11 @@
 [% WRAPPER layout.tt2
-     title = "USS Houston CA-30: Dives in 2016"
+     title = "USS Houston CA-30: Future dives"
      dive_years_active = "active"
 %]
 
-<h1>2016 Dive Team</h1>
+<h1>Future Dive Team</h1>
 
-<p>The Dive Team hopes to return to the USS Houston CA-30 in 2016.</p>
+<p>The Dive Team hopes to return to the USS Houston CA-30. A trip has not been planned.</p>
 
 <ul>
 <li>2015-08-26 <a href="/2015/2015-08-26.html">Water Police fund raiser update</a>
