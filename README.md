@@ -1,21 +1,26 @@
-usshoustondive.com
-==================
+# usshoustondive.com
 
 USS Houston (CA-30) Dive Team website
 
-Run a local web server:
+Clone the site:
 
-    cd www
-    plackup ../app.psgi
+    git checkout git@github.com:jhannah-netlify/usshoustondive.com.git
+    git checkout git@github.com:jhannah-netlify/usshoustondive.com.git usshoustondive.com-gh-pages
+    cd usshoustondive.com-gh-pages
+    git checkout gh-pages
+    cd ../usshoustondive.com
 
 Re-generate the website:
 
     ttree -f ttree.cfg
+    cd ../usshoustondive.com-gh-pages
+    git diff
+    git commit -a
+    git push
 
-Pull down a local set of production images:
+## Deprecated
 
-    rsync -av --progress --max-size=5m \
-      jhannah@usshoustondive.com:/var/www/usshoustondive.com/assets/ www/assets/
+We moved to Netlify hosting, so this doesn't apply anymore:
 
 Jay syncs the Dropbox images over to the website like so:
 
