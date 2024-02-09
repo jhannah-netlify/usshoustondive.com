@@ -13,6 +13,7 @@ Clone the site:
 Re-generate the website:
 
     ttree -f ttree.cfg
+    cp -r assets ../usshoustondive.com-gh-pages/
     cd ../usshoustondive.com-gh-pages
     git diff
     git commit -a
